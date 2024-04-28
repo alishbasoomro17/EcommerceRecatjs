@@ -1,0 +1,41 @@
+.header-links {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 30px;
+}
+  
+ul {
+    list-style-type: none;
+}
+
+.container {
+    background-color: black;
+    color: white;
+    margin: 15px;
+    padding: auto;
+    
+}
+a{
+    color: white;
+}
+
+@media screen and (max-width: 320px) {
+    ul {
+        font-size: smaller;
+    }
+}
+
+.cart-btn{
+    width: 30;
+    height: 30;
+}
+.display-6{
+    font-family: "Seymour One";
+    color: white;
+}
+.tagname{
+    font-family: "Dancing Script";
+    margin-top: 30px;
+    font-size: 30px;
+    letter-spacing: 2px;
+}

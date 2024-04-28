@@ -1,0 +1,21 @@
+h2{
+   color: white;
+     font-family:"Dancing Script";
+}
+h3{
+    color: white; 
+    font-family:"Dancing Script";
+    font-weight: 900;
+    font-size: 40px;
+}
+.box{
+    height: 500px;
+    background-color: black;
+  padding: 20px;
+  border-radius: 10px;
+  margin-top: 50px;
+  opacity: 0.9;
+}
+pop{
+  margin-bottom: 50px;
+}

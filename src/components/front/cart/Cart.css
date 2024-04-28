@@ -1,0 +1,21 @@
+.in{
+   
+    font-weight: 1000;
+    margin: 2px;
+    border: none;
+    font-size: 20px;
+    
+}
+h2{
+    color: white;
+    font-weight: 900;
+    font-size: 40px;
+}
+.cart-items{
+    background-color: black;
+
+    height:700px;
+}
+body{
+    color: black;
+}

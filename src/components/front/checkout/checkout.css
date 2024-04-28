@@ -1,0 +1,22 @@
+td{
+    border: 1px solid black;
+    padding: 5px;
+}
+h4{
+    color: black;
+    margin: 5px;
+    font-family: "Dancing Script";
+}
+i{
+    margin: 10px;
+}
+.container-sm{
+    background-color: black;
+}
+.container{
+    width: 95%;
+}
+h1{
+    font-family: "Seymour One";
+    color: green;
+}
