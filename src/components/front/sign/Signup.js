@@ -33,12 +33,12 @@ const Signup = () => {
     signedInEmail = email;
     signedInLocation = `${city}, ${country}`;
     setLoggedIn(true);
-    setShowAlert(false); // Hide the alert
+    setShowAlert(false);
   };
 
   const handleContinueShopping = () => {
     setLoggedIn(false);
-    // Continue shopping logic
+   
   };
 
   return (

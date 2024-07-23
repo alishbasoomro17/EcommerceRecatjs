@@ -1,10 +1,11 @@
+
 const data={
     productItems:[
       {
          id: "1",
          name: "Three milk cake",
          price: "1900",
-         img: "./pics/threemilk.jpeg",
+         img: "/pics/blackforest.jpeg",
          description: "A delicious cake made with three...",
          reviews: [
            { name: "Alice", comment: "Best cake ever!" },
