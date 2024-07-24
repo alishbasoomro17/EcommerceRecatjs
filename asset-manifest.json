@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/EcommerceRecatjs/static/css/main.397fba89.css",
+    "main.js": "/EcommerceRecatjs/static/js/main.ee584de8.js",
+    "static/media/gifbakery.gif": "/EcommerceRecatjs/static/media/gifbakery.e1ee4c77beb9bfb3325d.gif",
+    "index.html": "/EcommerceRecatjs/index.html",
+    "main.397fba89.css.map": "/EcommerceRecatjs/static/css/main.397fba89.css.map",
+    "main.ee584de8.js.map": "/EcommerceRecatjs/static/js/main.ee584de8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.397fba89.css",
+    "static/js/main.ee584de8.js"
+  ]
+}
