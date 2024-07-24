@@ -32,7 +32,7 @@ const Checkout = ({ cartitems ,clearcart}) => {
                 <tbody>
                     {cartitems.map((item) => (
                         <tr key={item.id}>
-                            <td><img src={item.img} alt="" style={{ width: '50px' }} /></td>
+                        <td><img src={`${process.env.PUBLIC_URL}${item.img}`} alt={item.name}  /></td>
                             <td>{item.name}</td>
                             <td>{item.quantity}</td>
                             <td>${item.price}</td>
